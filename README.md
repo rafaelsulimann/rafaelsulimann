@@ -24,4 +24,5 @@
   <img align="center" alt="Rafa-firebase" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
   <img align="center" alt="Rafa-react" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
   <img align="center" alt="Rafa-tailwind" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  <img align="center" alt="Rafa-tailwind" height="40" width="40" src="https://redmonk.com/jgovernor/files/2021/04/Backstage_Identity_Assets_Artwork_RGB_04_Icon_Teal.png" />
  </div>
